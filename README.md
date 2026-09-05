@@ -38,11 +38,3 @@ Proje, sürdürülebilir ve modüler bir mimariyle tasarlanmıştır:
 * **GET `/reminders/`**: Tüm hatırlatıcıları listeler.
 * **DELETE `/reminders/{reminder_id}`**: İlgili hatırlatıcıyı siler.
 
-## ⚙️ Kurulum ve Çalıştırma
-
-Projeyi kendi bilgisayarınızda çalıştırmak için şu adımları izleyin:
-
-1. **Repoyu klonlayın:**
-   ```bash
-   git clone [https://github.com/kullaniciadin/reminderapp.git](https://github.com/kullaniciadin/reminderapp.git)
-   cd reminderapp
